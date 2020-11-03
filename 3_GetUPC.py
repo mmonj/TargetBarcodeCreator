@@ -1,3 +1,5 @@
+#!python3
+
 import json
 import re
 import requests
@@ -19,7 +21,6 @@ REQUESTS_URL3 = '&pricing_store_id=2380&scheduled_delivery_store_id=1344&visitor
 # search tcin
 UPC_URL1 = 'https://redsky.target.com/v3/pdp/tcin/'
 UPC_URL2 = '?excludes=taxonomy%2Cbulk_ship%2Cawesome_shop%2Cquestion_answer_statistics%2Crating_and_review_reviews%2Crating_and_review_statistics%2Cdeep_red_labels%2Cin_store_location&key=eb2551e4accc14f38cc42d32fbc2b2ea&pricing_store_id=2380&storeId=2380'
-
 
 def main():
 	items = getItems()
@@ -96,7 +97,6 @@ def main():
 
 	with open(ITEMS_JSON, 'w', encoding='utf8') as f:
 		json.dump(items, f, indent=4)
-
 
 
 def getItems():

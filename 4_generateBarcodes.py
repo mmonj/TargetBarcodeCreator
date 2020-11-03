@@ -1,3 +1,5 @@
+#!python3
+
 from io import StringIO
 import barcode
 from barcode.writer import ImageWriter

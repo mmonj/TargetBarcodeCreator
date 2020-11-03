@@ -1,27 +1,55 @@
 {
     "215-03-0019": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52977259",
         "upc": "492150300190",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_e3df4ebd-ab00-41c0-9b89-39bf192aea02"
     },
     "215-03-0020": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52977287",
         "upc": "492150300206",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_db3fb6aa-c079-4291-b25a-d3582cf29b28"
     },
+    "215-03-0729": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-0730": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
+    "215-03-0731": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-0732": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-0756": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-1132": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-1137": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
     "215-03-1375": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53971987",
         "upc": "492150313756",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c"
     },
     "215-03-1376": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53971987",
         "upc": "492150313763",
@@ -161,35 +189,35 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d6a39e32-33fc-4b68-9db5-32ff01184e92"
     },
     "215-03-1628": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54145703",
         "upc": "492150316283",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c2d6dcd4-224e-4181-861e-e625a728f005"
     },
     "215-03-1629": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54145703",
         "upc": "492150316290",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c2d6dcd4-224e-4181-861e-e625a728f005"
     },
     "215-03-1630": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54145704",
         "upc": "492150316306",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c844833c-6268-4752-a8da-b696fea7fb80"
     },
     "215-03-1631": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53987886",
         "upc": "492150316313",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_4b9afb9b-33a7-4245-b208-89468fd927e6"
     },
     "215-03-1632": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53993861",
         "upc": "492150316320",
@@ -203,56 +231,56 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_58124e43-c60d-4860-8b84-fd60be309d23"
     },
     "215-03-1646": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54004677",
         "upc": "492150316467",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_32491969-8658-4195-9f62-0c87664fc18a"
     },
     "215-03-1648": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54004900",
         "upc": "492150316481",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_1641cc46-f26d-4cf1-9f9d-f47eb10298bc"
     },
     "215-03-1652": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54138357",
         "upc": "492150316528",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_fd9afbcd-1639-449b-b098-b8a50c276764"
     },
     "215-03-1672": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54138357",
         "upc": "492150316726",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_fd9afbcd-1639-449b-b098-b8a50c276764"
     },
     "215-03-1673": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54138358",
         "upc": "492150316733",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_5e76e28c-0f67-45f0-acd8-2f7ceea10295"
     },
     "215-03-1686": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54138359",
         "upc": "492150316863",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_455c3e3e-ac92-4211-8f1a-5a0e7b61f643"
     },
     "215-03-1687": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54138359",
         "upc": "492150316870",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_455c3e3e-ac92-4211-8f1a-5a0e7b61f643"
     },
     "215-03-1688": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54138358",
         "upc": "492150316887",
@@ -273,49 +301,49 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b37f30a1-c472-47e1-b4c6-c4e566e05368"
     },
     "215-03-1692": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54456729",
         "upc": "492150316924",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a266a7fa-59ae-4472-a052-ca0133578be0"
     },
     "215-03-1693": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54456729",
         "upc": "492150316931",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a266a7fa-59ae-4472-a052-ca0133578be0"
     },
     "215-03-1697": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54456728",
         "upc": "492150316979",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_0298433f-afa6-4376-bd73-93fef5d39f72"
     },
     "215-03-1702": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54456728",
         "upc": "492150317020",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_0298433f-afa6-4376-bd73-93fef5d39f72"
     },
     "215-03-1704": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54456727",
         "upc": "492150317044",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_93fbae5c-63c9-4ba5-8967-6c067f41ab8d"
     },
     "215-03-1705": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54456727",
         "upc": "492150317051",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_93fbae5c-63c9-4ba5-8967-6c067f41ab8d"
     },
     "215-03-1712": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54004858",
         "upc": "492150317129",
@@ -350,28 +378,28 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_81db3cd2-9b87-4044-8997-975d3f0570be"
     },
     "215-03-1722": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54005027",
         "upc": "492150317228",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_8232c1d4-a26c-47cd-bd4f-ba23e8c30aa6"
     },
     "215-03-1728": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54005043",
         "upc": "492150317280",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f2feafcd-c3bc-47ee-9ab5-778bc8ae686c"
     },
     "215-03-1735": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54005069",
         "upc": "492150317358",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_e2dfa9a9-55df-403e-ae2a-34cbf6c14dff"
     },
     "215-03-1750": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54005107",
         "upc": "492150317501",
@@ -413,21 +441,21 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_4235fc15-4a17-4a49-8b5a-4a28ee797adf"
     },
     "215-03-1757": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54005193",
         "upc": "492150317570",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_998339e2-b8ca-44b1-87c1-e8ea0851f4d5"
     },
     "215-03-1758": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "54143378",
         "upc": "492150317587",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7bf73800-bb8b-470f-b0ff-9df5d7d9064f"
     },
     "215-03-1760": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "54143378",
         "upc": "492150317600",
@@ -448,140 +476,140 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_debb5241-2fea-4eb1-9a26-873ad7a477af"
     },
     "215-03-2016": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54145704",
         "upc": "492150320167",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c844833c-6268-4752-a8da-b696fea7fb80"
     },
     "215-03-2750": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53972023",
         "upc": "492150327500",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f8ccd1f0-bbdd-4f9f-8817-7d68f52ec68e"
     },
     "215-03-2751": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53972023",
         "upc": "492150327517",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f8ccd1f0-bbdd-4f9f-8817-7d68f52ec68e"
     },
     "215-03-2752": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53972038",
         "upc": "492150327524",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_3a70bc4e-416b-4607-903b-61c5548c897d"
     },
     "215-03-2753": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53972038",
         "upc": "492150327531",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_3a70bc4e-416b-4607-903b-61c5548c897d"
     },
     "215-03-2760": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53972199",
         "upc": "492150327609",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_68f99a8c-5cbf-4ae2-ac7a-be378d9a75f3"
     },
     "215-03-2761": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53972199",
         "upc": "492150327616",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_68f99a8c-5cbf-4ae2-ac7a-be378d9a75f3"
     },
     "215-03-3540": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54351945",
         "upc": "492150335406",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_0694e626-0c34-4acb-852b-c59747c98a0b"
     },
     "215-03-3573": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54351943",
         "upc": "492150335734",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_323b5c4a-f335-4847-a308-d7eab0492620"
     },
     "215-03-3578": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54392973",
         "upc": "492150335789",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b85f1048-c2a8-4d64-adb2-f53afb5802a6"
     },
     "215-03-3581": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54392973",
         "upc": "492150335819",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b85f1048-c2a8-4d64-adb2-f53afb5802a6"
     },
     "215-03-3584": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54358510",
         "upc": "492150335840",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b8123ae1-bf39-4937-ac1f-d9de974aaabc"
     },
     "215-03-3593": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54392975",
         "upc": "492150335932",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_6f5e1c71-98ab-4091-9905-8f27d4164bba"
     },
     "215-03-3596": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54392975",
         "upc": "492150335963",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_6f5e1c71-98ab-4091-9905-8f27d4164bba"
     },
     "215-03-3599": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54352002",
         "upc": "492150335994",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_e0083142-8a22-4138-9f79-029bba2f7f09"
     },
     "215-03-3605": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54358532",
         "upc": "492150336052",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_46acae9d-3b77-4c60-881c-96e43787b099"
     },
     "215-03-3606": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "54392976",
         "upc": "492150336069",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c7f2af88-42a8-4db5-9783-837928c594d4"
     },
     "215-03-3608": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "54392976",
         "upc": "492150336083",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c7f2af88-42a8-4db5-9783-837928c594d4"
     },
     "215-03-3617": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54353925",
         "upc": "492150336175",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_e4211865-51db-4fba-84c9-f35884a73bc7"
     },
     "215-03-3626": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54358529",
         "upc": "492150336267",
@@ -595,28 +623,28 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_e2305e5c-22ae-4ceb-85a5-4ab3fef2d2a0"
     },
     "215-03-3638": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54364369",
         "upc": "492150336380",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_879f208c-08d6-4736-b28d-913fb29fe68d"
     },
     "215-03-3639": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54364427",
         "upc": "492150336397",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_be547bc4-89bd-4dea-a613-210a9d954d33"
     },
     "215-03-3643": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54364459",
         "upc": "492150336434",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b9e4c2f8-48d7-45ca-bdc8-58064f16d3cb"
     },
     "215-03-3644": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54364477",
         "upc": "492150336441",
@@ -630,77 +658,81 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7c7c0e60-8969-437d-9d4a-118d6349561a"
     },
     "215-03-3647": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54364495",
         "upc": "492150336472",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_75311cc3-527a-4562-80ba-c0235491bd07"
     },
+    "215-03-3747": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
     "215-03-4190": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "76544316",
         "upc": "492150341902",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a37bdedf-abba-4836-92fc-f7eb5de7c9ac"
     },
     "215-03-4191": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "76544316",
         "upc": "492150341919",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a37bdedf-abba-4836-92fc-f7eb5de7c9ac"
     },
     "215-03-4389": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54559694",
         "upc": "492150343890",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c8b6d28e-ee82-46b1-a828-12f5bdcdf45b"
     },
     "215-03-4390": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54559705",
         "upc": "492150343906",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f901e314-c048-47af-b494-c8ba52d57f6d"
     },
     "215-03-4391": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54559768",
         "upc": "492150343913",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_8eab949d-c315-47ec-9f99-e89feef3bfed"
     },
     "215-03-4392": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54559795",
         "upc": "492150343920",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_dc2e8dd1-2a50-4a3a-9b92-b303c041fe19"
     },
     "215-03-4393": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54559807",
         "upc": "492150343937",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d693d96c-87d3-4f79-b660-cf5061fca796"
     },
     "215-03-4394": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54559853",
         "upc": "492150343944",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d563034f-3b61-4ccf-81f6-ed4273edf7c2"
     },
     "215-03-4396": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54559860",
         "upc": "492150343968",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_81d4c1c8-8548-44df-a48d-3a703ddd827b"
     },
     "215-03-4397": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54559861",
         "upc": "492150343975",
@@ -742,7 +774,7 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_6231a8ec-7c56-42ab-8ddd-db0051056999"
     },
     "215-03-4403": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54560409",
         "upc": "492150344033",
@@ -777,49 +809,53 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_0059b10e-602b-47a8-9eb5-40020993ad4f"
     },
     "215-03-4417": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54564785",
         "upc": "492150344170",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_5d568bb3-7e50-4e5b-b9cc-3eac2ab30095"
     },
     "215-03-4419": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54564812",
         "upc": "492150344194",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_31e42513-4056-44e9-8bcb-79f510e9175c"
     },
     "215-03-4420": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54564845",
         "upc": "492150344200",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a33d12b1-982b-43c8-b9fd-dd141da9424f"
     },
     "215-03-4423": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54564821",
         "upc": "492150344231",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_3600084c-97a4-47d9-bdff-f03f8bc69d58"
     },
     "215-03-4426": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54564856",
         "upc": "492150344262",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c2321f62-e7b1-46bb-9626-657229b339ea"
     },
     "215-03-4428": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54564794",
         "upc": "492150344286",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_2a419683-6895-462f-ab47-d9983edb1418"
     },
+    "215-03-5855": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
     "215-03-5902": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "54364536",
         "upc": "492150359020",
@@ -840,11 +876,67 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_78c441b0-4326-4718-aac2-6c43f84077ef"
     },
     "215-03-5905": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "54364554",
         "upc": "492150359051",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_2bd06ab0-5193-4332-8210-e737730c8d2f"
+    },
+    "215-03-5925": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-6043": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-6137": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
+    "215-03-6216": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
+    "215-03-6349": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-6492": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-6673": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-6700": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-6720": {
+        "set_date": "1/31/2020",
+        "type": "Ring"
+    },
+    "215-03-6744": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
+    "215-03-6764": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-6808": {
+        "set_date": "1/31/2020",
+        "type": "Ring"
+    },
+    "215-03-6823": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
+    "215-03-7033": {
+        "set_date": "1/31/2020",
+        "type": "Ring"
     },
     "215-03-7038": {
         "set_date": "8/9/2019",
@@ -881,43 +973,63 @@
         "upc": "492150370483",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_88e823d8-b017-4ea8-97b5-009fa14f1bae"
     },
+    "215-03-7139": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
+    "215-03-7140": {
+        "set_date": "1/31/2020",
+        "type": "Earrings"
+    },
+    "215-03-7308": {
+        "set_date": "1/31/2020",
+        "type": "Ring"
+    },
+    "215-03-7688": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
+    "215-03-7762": {
+        "set_date": "1/31/2020",
+        "type": "Necklace"
+    },
     "215-03-8521": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975291",
         "upc": "492150385210",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_59f1fb83-d1f3-43b5-90ba-d3672057c7ec"
     },
     "215-03-8523": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975285",
         "upc": "492150385234",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_48b0c58d-d0a0-4d84-a446-90bed81aafdf"
     },
     "215-03-8524": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52988419",
         "upc": "492150385241",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_fea0ebc9-f08f-42a5-bcf5-7919c3aba2e5"
     },
     "215-03-8527": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52988409",
         "upc": "492150385272",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_300118e7-5f83-4140-8ab1-9bd810fcc595"
     },
     "215-03-8528": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52988394",
         "upc": "492150385289",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_803be3c7-fe26-468d-8fb4-37352265e93e"
     },
     "215-03-8536": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52988416",
         "upc": "492150385364",
@@ -941,35 +1053,35 @@
         "tcin": "53019542"
     },
     "215-03-8845": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52929343",
         "upc": "492150388457",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_83907e8e-3db4-4b67-9f79-d05d6f8e1dc4"
     },
     "215-03-8847": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52929332",
         "upc": "492150388471",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_54d5188d-5c32-4cad-b432-2ec7a1b99fac"
     },
     "215-03-8848": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52929372",
         "upc": "492150388488",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_1c3e8f5e-9421-4491-9756-ee2d21786048"
     },
     "215-03-8856": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52926014",
         "upc": "803886103793",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_91e7e467-4b8c-42e3-bf9b-3f43024bb52d"
     },
     "215-03-8857": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52926015",
         "upc": "803886103809",
@@ -981,14 +1093,14 @@
         "tcin": "52926029"
     },
     "215-03-8865": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52946401",
         "upc": "803886103663",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d1374015-04c5-4e58-bf8f-c38fccea3bd9"
     },
     "215-03-8871": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52928866",
         "upc": "492150388716",
@@ -1002,7 +1114,7 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_1f9e4cd7-abfe-4269-9b4f-96f98521e9e7"
     },
     "215-03-8873": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52929034",
         "upc": "803886103915",
@@ -1019,7 +1131,7 @@
         "tcin": "52926019"
     },
     "215-03-8878": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52928287",
         "upc": "803886103670",
@@ -1031,14 +1143,14 @@
         "tcin": "52929026"
     },
     "215-03-8884": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52928956",
         "upc": "803886103465",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_faaa0d60-acb7-47a6-acc1-cbb1141fd0a2"
     },
     "215-03-8887": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52929245",
         "upc": "492150388877",
@@ -1052,14 +1164,14 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_be09bf65-45cf-4aac-a0a5-278489dd40da"
     },
     "215-03-8889": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52929463",
         "upc": "492150388891",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_af99a638-d3d6-4c6a-bb8b-654e114ced21"
     },
     "215-03-8890": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52929285",
         "upc": "492150388907",
@@ -1073,140 +1185,140 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c4ee7ce2-e7d9-4503-9140-c6b0ed86fd9c"
     },
     "215-03-8892": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52929311",
         "upc": "492150388921",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_acb5b159-7272-4e02-a05c-1384e5619948"
     },
     "215-03-8893": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52929341",
         "upc": "492150388938",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_877ba503-0c0d-4ee9-ae1c-b5fd581fd0a6"
     },
     "215-03-8907": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975115",
         "upc": "492150389072",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f65f7eab-108c-442c-88f0-c7715813d0eb"
     },
     "215-03-8916": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975067",
         "upc": "492150389164",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_777ec234-0cc2-4c7b-a714-29b31b26b155"
     },
     "215-03-8917": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975070",
         "upc": "492150389171",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_71d1bfd3-497b-4a18-8928-9a4b854a878d"
     },
     "215-03-8918": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975061",
         "upc": "492150389188",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_82958257-d846-46b5-b0f7-998d71360906"
     },
     "215-03-8923": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52988401",
         "upc": "492150389232",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_82d23865-343f-46d0-a11f-2a3a23dc144e"
     },
     "215-03-8924": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975400",
         "upc": "492150389249",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_eeb609a0-7465-4ab8-b344-a4df471442b0"
     },
     "215-03-8925": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975401",
         "upc": "492150389256",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_0506e074-3ab0-4cdb-a99a-69552deb30bd"
     },
     "215-03-8926": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53397364",
         "upc": "492150389263",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_275e9713-1e7d-4b09-a36e-c4a12bbd52df"
     },
     "215-03-8927": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53397364",
         "upc": "492150389270",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_275e9713-1e7d-4b09-a36e-c4a12bbd52df"
     },
     "215-03-8928": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53397364",
         "upc": "492150389287",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_275e9713-1e7d-4b09-a36e-c4a12bbd52df"
     },
     "215-03-8935": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52988418",
         "upc": "492150389355",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_eee28d18-1c60-4e09-9a14-37e5dd597a8b"
     },
     "215-03-8936": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52967512",
         "upc": "492150389362",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7aca7301-4729-4ec3-92d2-eb30f8046006"
     },
     "215-03-8938": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52987626",
         "upc": "492150389386",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_4f4ef866-14ea-4992-91b7-0a05f0e01144"
     },
     "215-03-9211": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "52961225",
         "upc": "492150392119",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d129805a-ea5e-42ef-9921-218c45ef941d"
     },
     "215-03-9236": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52978494",
         "upc": "492150392362",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_37102756-3f9b-4f98-a41d-d745c3b8842b"
     },
     "215-03-9239": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52978551",
         "upc": "492150392393",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_33f2b3c5-5d2b-4a76-bd34-d9c52adc0371"
     },
     "215-03-9241": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52988428",
         "upc": "492150392416",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b41df839-f95c-4ff8-868f-5bf57d28fbbe"
     },
     "215-03-9242": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52978597",
         "upc": "492150392423",
@@ -1227,105 +1339,105 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d72ee7aa-3f41-4ccf-bb09-74057e2c8f5a"
     },
     "215-03-9253": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Ring",
         "tcin": "52967527",
         "upc": "492150392539",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_31e89155-0915-4838-bebd-9ce9c8237e68"
     },
     "215-03-9254": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Ring",
         "tcin": "52975042",
         "upc": "492150392546",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_ca452a2e-c024-4a31-8e33-406ef9a9be7b"
     },
     "215-03-9255": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52990021",
         "upc": "492150392553",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_65e83b0f-2eaa-41e4-8ab4-b0f9fc80593f"
     },
     "215-03-9256": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "52978481",
         "upc": "492150392560",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_45154208-e276-48a3-aeae-2653b8f24f8f"
     },
     "215-03-9263": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52977148",
         "upc": "492150392638",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c3020441-eb28-4d38-9939-e8a711aa15b8"
     },
     "215-03-9264": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "52978319",
         "upc": "492150392645",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d63470d5-6718-4880-8af4-0d300a7ad62f"
     },
     "215-03-9266": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52978251",
         "upc": "492150392669",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d2270675-0aeb-400c-a050-5229e9aa2ef5"
     },
     "215-03-9267": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52977177",
         "upc": "492150392676",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d3c53bee-e16b-4416-af41-936b3c986fb3"
     },
     "215-03-9271": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52990065",
         "upc": "492150392713",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a0f91907-f927-488b-b9c6-669e2c8af460"
     },
     "215-03-9272": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "52978468",
         "upc": "492150392720",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_40d1dc89-d612-4127-b347-ee1ead603c5e"
     },
     "215-03-9274": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Extenders",
         "tcin": "52977203",
         "upc": "492150392744",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_48e6c010-86d0-4efc-acb5-8883adb0def2"
     },
     "215-03-9275": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "52978476",
         "upc": "492150392751",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d719c16b-3470-45ee-bb9d-b1e1ef3ab50e"
     },
     "215-03-9276": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Backs",
         "tcin": "52977245",
         "upc": "492150392768",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7c18d1e1-643e-4837-8c62-407c104c1041"
     },
     "215-03-9277": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52977253",
         "upc": "492150392775",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_33daf3db-ab43-4326-ab66-01531c60e588"
     },
     "215-03-9278": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "52978485",
         "upc": "492150392782",
@@ -1339,105 +1451,105 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_6216b29d-8592-405a-8553-8525d917fa03"
     },
     "215-03-9280": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52977251",
         "upc": "492150392805",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_89c2854f-2ec8-49d5-ac38-66656d72caa0"
     },
     "215-03-9281": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53397396",
         "upc": "492150392812",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_edab562e-3187-47c7-a3dc-3cda48f6b277"
     },
     "215-03-9282": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53397381",
         "upc": "492150392829",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_99a98f2d-1d64-490d-b202-28fe46134562"
     },
     "215-03-9283": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53397381",
         "upc": "492150392836",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_99a98f2d-1d64-490d-b202-28fe46134562"
     },
     "215-03-9284": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53397396",
         "upc": "492150392843",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_edab562e-3187-47c7-a3dc-3cda48f6b277"
     },
     "215-03-9285": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52977351",
         "upc": "492150392850",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f33588d7-29ee-4b90-adbd-b5ede92f1dab"
     },
     "215-03-9286": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52977354",
         "upc": "492150392867",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_493b73e5-9438-4f6a-b2f5-ab74f340e2dd"
     },
     "215-03-9287": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52978320",
         "upc": "492150392874",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_94b3e2b7-cde8-4417-a0e8-76e422528c58"
     },
     "215-03-9288": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "52977361",
         "upc": "492150392881",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_de3f77b2-8f9f-4ebe-8155-d5652af3d3d4"
     },
     "215-03-9291": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52978390",
         "upc": "492150392911",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_e0730550-ca15-457f-ab4a-bb1f6d1f3eba"
     },
     "215-03-9292": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52978286",
         "upc": "492150392928",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_9cb9dd38-35f8-4699-afd2-2f5c6531190f"
     },
     "215-03-9294": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Backs",
         "tcin": "52977424",
         "upc": "492150392942",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_ed38f7c3-29f9-48f9-ad45-dc466fbd9858"
     },
     "215-03-9296": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "52977437",
         "upc": "492150392966",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_041698e9-4687-4b70-a148-a2217265953a"
     },
     "215-03-9297": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52978274",
         "upc": "492150392973",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_9910b5a1-a9eb-4acb-8eeb-2f1e3197300a"
     },
     "215-03-9301": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975220",
         "upc": "492150393017",
@@ -1451,7 +1563,7 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_852c7a69-3848-4b3f-8e24-7e260cf20bee"
     },
     "215-03-9305": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975178",
         "upc": "492150393055",
@@ -1463,7 +1575,7 @@
         "tcin": "52988400"
     },
     "215-03-9309": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975120",
         "upc": "492150393093",
@@ -1475,21 +1587,21 @@
         "tcin": "52967429"
     },
     "215-03-9311": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975216",
         "upc": "492150393116",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_25eb6c0e-0547-4a14-af26-15ddcac471f9"
     },
     "215-03-9315": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52988410",
         "upc": "492150393154",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c0b964fd-7b2e-4fe5-a06a-3cb064291845"
     },
     "215-03-9316": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52988397",
         "upc": "492150393161",
@@ -1513,7 +1625,7 @@
         "tcin": "52967451"
     },
     "215-03-9322": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52968393",
         "upc": "492150393222",
@@ -1525,14 +1637,14 @@
         "tcin": "52975212"
     },
     "215-03-9327": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975230",
         "upc": "492150393277",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_c7fbbee4-e038-436f-8a68-b293280fc695"
     },
     "215-03-9328": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52988396",
         "upc": "492150393284",
@@ -1546,21 +1658,21 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b334ed5d-56a7-4220-8911-0b795a23951f"
     },
     "215-03-9332": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975106",
         "upc": "492150393321",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_d80c8fd2-9593-407c-a21b-01dc6487d66f"
     },
     "215-03-9333": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52988408",
         "upc": "492150393338",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7f94f9ae-2513-4fdb-8082-22d86fc7fec9"
     },
     "215-03-9334": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "52975244",
         "upc": "492150393345",
@@ -1572,14 +1684,14 @@
         "tcin": "52988415"
     },
     "215-03-9338": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Bracelet",
         "tcin": "53019552",
         "upc": "492150393383",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_e1696c87-1636-436d-b5f6-1cfa167466ed"
     },
     "215-03-9340": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53019525",
         "upc": "492150393406",
@@ -1598,7 +1710,7 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f2f70878-0654-4a16-831a-f7ad4d77a717"
     },
     "215-03-9484": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53378010",
         "upc": "492150394847",
@@ -1610,7 +1722,7 @@
         "tcin": "53378213"
     },
     "215-03-9489": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53378326",
         "upc": "492150394892",
@@ -1622,21 +1734,21 @@
         "tcin": "53377443"
     },
     "215-03-9491": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53377509",
         "upc": "492150394915",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a8c38171-473b-48b0-bbd2-2cf80d632a4b"
     },
     "215-03-9492": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53378335",
         "upc": "492150394922",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_3be6c8aa-56df-4b80-9e46-21dbc59059d7"
     },
     "215-03-9493": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53378491",
         "upc": "492150394939",
@@ -1648,7 +1760,7 @@
         "tcin": "53377959"
     },
     "215-03-9496": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53378508",
         "upc": "492150394960",
@@ -1660,21 +1772,21 @@
         "tcin": "53377986"
     },
     "215-03-9498": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53378088",
         "upc": "492150394984",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_f09fc943-9d44-4fb4-a505-6d11841c5af4"
     },
     "215-03-9568": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53423077",
         "upc": "492150395684",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_28919f8a-3de0-4849-9419-fc2140debe7d"
     },
     "215-03-9578": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606710",
         "upc": "492150395783",
@@ -1691,7 +1803,7 @@
         "tcin": "53517089"
     },
     "215-03-9581": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53549150",
         "upc": "492150395813",
@@ -1705,28 +1817,28 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_79607ddf-e84e-4043-b200-6c4425124348"
     },
     "215-03-9584": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53549092",
         "upc": "492150395844",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_a8e7e559-c75f-4ae6-82ff-88ed2eb6ef83"
     },
     "215-03-9586": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606718",
         "upc": "492150395868",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_2c012b25-581f-4e83-a0ac-c333ef32afe8"
     },
     "215-03-9587": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53909294",
         "upc": "492150395875",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_b65fd992-cc28-4b98-9d86-32b8a3fd44b2"
     },
     "215-03-9588": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53909294",
         "upc": "492150395882",
@@ -1738,14 +1850,14 @@
         "tcin": "53606710"
     },
     "215-03-9590": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53517105",
         "upc": "492150395905",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7f5f69ae-ae0e-49a2-a5d5-2921dc6a98da"
     },
     "215-03-9591": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53503689",
         "upc": "492150395912",
@@ -1757,7 +1869,7 @@
         "tcin": "53517052"
     },
     "215-03-9594": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606716",
         "upc": "492150395943",
@@ -1771,49 +1883,49 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_ea99b979-c24d-43cd-b3ce-ffa7d7256b08"
     },
     "215-03-9596": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53543073",
         "upc": "492150395967",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_69a1a26f-54db-4ade-a76e-529afcf45ea1"
     },
     "215-03-9598": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606731",
         "upc": "492150395981",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_ea99b979-c24d-43cd-b3ce-ffa7d7256b08"
     },
     "215-03-9599": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53549147",
         "upc": "492150395998",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_bd0aef7b-7dd7-4ebc-a94a-d11024271023"
     },
     "215-03-9601": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606718",
         "upc": "492150396018",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_2c012b25-581f-4e83-a0ac-c333ef32afe8"
     },
     "215-03-9602": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606718",
         "upc": "492150396025",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_2c012b25-581f-4e83-a0ac-c333ef32afe8"
     },
     "215-03-9603": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53543073",
         "upc": "492150396032",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_69a1a26f-54db-4ade-a76e-529afcf45ea1"
     },
     "215-03-9605": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606731",
         "upc": "492150396056",
@@ -1827,28 +1939,28 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_8a101086-9117-4e58-a094-27aa2eee7355"
     },
     "215-03-9607": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606716",
         "upc": "492150396070",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7ff6dce9-c67f-40e6-9dc2-e6f61d673661"
     },
     "215-03-9608": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606710",
         "upc": "492150396087",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_7d91ac75-a549-4063-b598-e61969878455"
     },
     "215-03-9610": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Necklace",
         "tcin": "53503564",
         "upc": "492150396100",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_408e9ba0-b5b9-41ac-863c-375ac5f34fb7"
     },
     "215-03-9612": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606746",
         "upc": "492150396124",
@@ -1860,7 +1972,7 @@
         "tcin": "53606716"
     },
     "215-03-9614": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Earrings",
         "tcin": "53606746",
         "upc": "492150396148",
@@ -1960,14 +2072,14 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_88e823d8-b017-4ea8-97b5-009fa14f1bae"
     },
     "215-03-9750": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Ring",
         "tcin": "53687501",
         "upc": "492150397503",
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_3dac694c-fa1c-4646-ad93-ef792ccc4b40"
     },
     "215-03-9758": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Ring",
         "tcin": "53687501",
         "upc": "492150397589",
@@ -1981,7 +2093,7 @@
         "imageURL": "https://target.scene7.com/is/image/Target/GUEST_88e823d8-b017-4ea8-97b5-009fa14f1bae"
     },
     "215-03-9766": {
-        "set_date": "8/9/2019",
+        "set_date": "1/31/2020",
         "type": "Ring",
         "tcin": "53687501",
         "upc": "492150397664",
