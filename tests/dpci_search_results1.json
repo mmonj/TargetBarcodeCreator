@@ -1,0 +1,539 @@
+{
+    "search_recommendations":{
+        "query":"215-03-1375"
+    },
+    "search_response":{
+        "items":{
+            "Item":[
+                {
+                    "avail_ratio":"0.5",
+                    "subscribable":false,
+                    "title":"Large Flat Hoop Earrings - A New Day&#153;",
+                    "tcin":"53971987",
+                    "type":"Variation Parent",
+                    "url":"/p/large-flat-hoop-earrings-a-new-day-153/-/A-53971987",
+                    "description":"For a polished, unfussy look, check out the Large Flat Hoop Earrings from A New Day™. These oval hoop earrings feature a unique shape with a flat hoop that widens at the bottom, creating a triangular, dimensional silhouette that brings them a step beyond your average hoops. Showcase them with a partial updo and simple, bold rings to accent your minimalist style.",
+                    "representative_child_part_number":"53939828",
+                    "merch_sub_class":"3",
+                    "merch_class":"JEWELRY",
+                    "merch_class_id":"215",
+                    "brand":"A New Day",
+                    "product_brand":{
+                        "facet_id":"xrye7",
+                        "brand":"A New Day"
+                    },
+                    "images":[
+                        {
+                            "base_url":"https://target.scene7.com/is/image/Target/",
+                            "primary":"GUEST_eeddc574-200b-4c94-9501-5482b6689711",
+                            "swatch":"GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c",
+                            "alternate_urls":[
+                                "GUEST_9fe0d59e-4fa2-45de-a921-357b1a488085",
+                                "GUEST_cb0613eb-8a68-4fe3-9c21-9ea96ce73dd9"
+                            ],
+                            "content_labels":[
+                                {
+                                    "image_url":"GUEST_eeddc574-200b-4c94-9501-5482b6689711",
+                                    "displayed_in_image":{
+                                        "tcins":[
+                                            "53939828"
+                                        ]
+                                    },
+                                    "shoppable_in_image":[
+                                        
+                                    ]
+                                },
+                                {
+                                    "image_url":"GUEST_9fe0d59e-4fa2-45de-a921-357b1a488085",
+                                    "displayed_in_image":{
+                                        "tcins":[
+                                            "53939828"
+                                        ]
+                                    },
+                                    "shoppable_in_image":[
+                                        
+                                    ]
+                                },
+                                {
+                                    "image_url":"GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c"
+                                },
+                                {
+                                    "image_url":"GUEST_cb0613eb-8a68-4fe3-9c21-9ea96ce73dd9"
+                                }
+                            ]
+                        }
+                    ],
+                    "variation_attributes":{
+                        "color":[
+                            "Gold",
+                            "Silver"
+                        ]
+                    },
+                    "child_items":[
+                        {
+                            "tcin":"53939828",
+                            "images":{
+                                "base_url":"https://target.scene7.com/is/image/Target/",
+                                "primary":"GUEST_eeddc574-200b-4c94-9501-5482b6689711",
+                                "swatch":"GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c",
+                                "alternate_urls":[
+                                    "GUEST_9fe0d59e-4fa2-45de-a921-357b1a488085",
+                                    "GUEST_cb0613eb-8a68-4fe3-9c21-9ea96ce73dd9"
+                                ],
+                                "content_labels":[
+                                    {
+                                        "image_url":"GUEST_eeddc574-200b-4c94-9501-5482b6689711",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939828"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_9fe0d59e-4fa2-45de-a921-357b1a488085",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939828"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c"
+                                    },
+                                    {
+                                        "image_url":"GUEST_cb0613eb-8a68-4fe3-9c21-9ea96ce73dd9"
+                                    }
+                                ]
+                            },
+                            "package_dimensions":{
+                                "weight":"0.03",
+                                "weight_unit_of_measure":"POUND",
+                                "width":"2.5",
+                                "depth":"0.55",
+                                "height":"3.0",
+                                "dimension_unit_of_measure":"INCH"
+                            },
+                            "eligibility_rules":{
+                                "add_on":{
+                                    "is_active":true
+                                },
+                                "hold":{
+                                    "is_active":true
+                                },
+                                "ship_to_guest":{
+                                    "is_active":true
+                                }
+                            }
+                        },
+                        {
+                            "tcin":"53939831",
+                            "images":{
+                                "base_url":"https://target.scene7.com/is/image/Target/",
+                                "primary":"GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c",
+                                "swatch":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770",
+                                "alternate_urls":[
+                                    "GUEST_389be0db-d6e3-4243-a0d0-9fffaa650c6b",
+                                    "GUEST_7c6b00a2-27fa-4485-9557-f98a53c073bb"
+                                ],
+                                "content_labels":[
+                                    {
+                                        "image_url":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770"
+                                    },
+                                    {
+                                        "image_url":"GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939831"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_389be0db-d6e3-4243-a0d0-9fffaa650c6b",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939831"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_7c6b00a2-27fa-4485-9557-f98a53c073bb"
+                                    }
+                                ]
+                            },
+                            "package_dimensions":{
+                                "weight":"0.03",
+                                "weight_unit_of_measure":"POUND",
+                                "width":"2.5",
+                                "depth":"0.55",
+                                "height":"3.0",
+                                "dimension_unit_of_measure":"INCH"
+                            },
+                            "eligibility_rules":{
+                                "add_on":{
+                                    "is_active":true
+                                },
+                                "hold":{
+                                    "is_active":true
+                                },
+                                "ship_to_guest":{
+                                    "is_active":true
+                                }
+                            }
+                        }
+                    ],
+                    "swatches":{
+                        "color":[
+                            {
+                                "color":"Gold",
+                                "swatch_url":"https://target.scene7.com/is/image/Target/GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c",
+                                "partNumber":"53939828",
+                                "img_url":"https://target.scene7.com/is/image/Target/GUEST_eeddc574-200b-4c94-9501-5482b6689711"
+                            },
+                            {
+                                "color":"Silver",
+                                "swatch_url":"https://target.scene7.com/is/image/Target/GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770",
+                                "partNumber":"53939831",
+                                "img_url":"https://target.scene7.com/is/image/Target/GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c"
+                            }
+                        ]
+                    },
+                    "pick_up_in_store":false,
+                    "ship_to_store":false,
+                    "ship_from_store":false,
+                    "rush_delivery":false,
+                    "scheduled_delivery_store_availability_status":"OUT_OF_STOCK",
+                    "average_rating":5.0,
+                    "total_reviews":3,
+                    "top_reviews":[
+                        {
+                            "user_nickname":"Dev",
+                            "title":"Simple & Lovely",
+                            "rating":5,
+                            "rating_range":5,
+                            "review_text":"These earrings are good quality and have become one of my favorite pairs of earrings. I wear them pretty often, and they have not chipped or anything yet. They feel a little weighted and sturdy, so I doubt they would just break on you. They look lovely, whether you dress them up or down, and they are a nice medium size, not small and not huge."
+                        },
+                        {
+                            "user_nickname":"Tristan",
+                            "title":"Look great!",
+                            "rating":5,
+                            "rating_range":5,
+                            "review_text":"I bought these for my mom for Christmas. They look beautiful on her!"
+                        },
+                        {
+                            "user_nickname":"Sheri",
+                            "title":"Earrings",
+                            "rating":5,
+                            "rating_range":5,
+                            "review_text":"I just love this pair of earrings and also I have received a lot of complements on them too!!"
+                        }
+                    ],
+                    "total_review_count":3,
+                    "secondary_ratings_averages_order":[
+                        "Value",
+                        "Style"
+                    ],
+                    "secondary_ratings_averages":{
+                        "Value":{
+                            "Id":"Value",
+                            "AverageRating":4.67,
+                            "Label":"value",
+                            "ValueRange":5,
+                            "DisplayType":"NORMAL"
+                        },
+                        "Style":{
+                            "Id":"Style",
+                            "AverageRating":5.0,
+                            "Label":"style",
+                            "ValueRange":5,
+                            "DisplayType":"NORMAL"
+                        }
+                    },
+                    "ratings_only_review_count":0,
+                    "rating_distribution":[
+                        {
+                            "Count":0,
+                            "RatingValue":1
+                        },
+                        {
+                            "Count":0,
+                            "RatingValue":2
+                        },
+                        {
+                            "Count":0,
+                            "RatingValue":3
+                        },
+                        {
+                            "Count":0,
+                            "RatingValue":4
+                        },
+                        {
+                            "Count":3,
+                            "RatingValue":5
+                        }
+                    ],
+                    "overall_rating_range":5,
+                    "bullet_description":[
+                        "<B>Number of Pieces:</B> 1",
+                        "<B>Item 1: Length:</B> 1.61 Inches",
+                        "<B>Item 1: Width:</B> .83 Inches",
+                        "<B>Item 1: Material:</B> Steel, Nickel-Free Metal",
+                        "<B>Item 1: Weight:</B> .48 Grams",
+                        "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+                    ],
+                    "soft_bullets":{
+                        "title":"fit & style",
+                        "bullets":[
+                            "Flat, oval hoops are supremely wearable at a 1.6in drop",
+                            "Unique shape is constructed simply for a minimalist look",
+                            "Post and leverback design is secure and easy to put on"
+                        ]
+                    },
+                    "wellness_merchandise_attributes":[
+                        {
+                            "parent_id":"111962",
+                            "parent_name":"Item 1: Material",
+                            "value_id":"279977",
+                            "value_name":"Nickel Free",
+                            "badge_url":"https://target.scene7.com/is/image/Target/badge_ee5aefee-300c-ad0b-555e-4dc498d08f17",
+                            "wellness_description":"Does not contain Nickel"
+                        }
+                    ],
+                    "price":{
+                        "tcin":"53971987",
+                        "formatted_current_price":"$9.99",
+                        "formatted_current_price_type":"reg",
+                        "is_current_price_range":false,
+                        "current_retail_min":9.99,
+                        "current_retail_max":9.99,
+                        "reg_retail_min":9.99,
+                        "reg_retail_max":9.99
+                    },
+                    "merchandising":{
+                        "fashion_intent":"Fashion"
+                    }
+                }
+            ]
+        },
+        "metaData":[
+            {
+                "name":"sort_by",
+                "value":"relevance"
+            },
+            {
+                "name":"keyword",
+                "value":"215-03-1375"
+            },
+            {
+                "name":"noOfTokens",
+                "value":"1"
+            },
+            {
+                "name":"display_facet_count",
+                "value":"true"
+            },
+            {
+                "name":"requestId",
+                "value":"-3364333658914535912"
+            },
+            {
+                "name":"total_results",
+                "value":"1"
+            },
+            {
+                "name":"count",
+                "value":"24"
+            },
+            {
+                "name":"offset",
+                "value":"0"
+            },
+            {
+                "name":"totalPages",
+                "value":"1"
+            },
+            {
+                "name":"currentPage",
+                "value":"1"
+            },
+            {
+                "name":"custom_rule_id",
+                "value":"5f6660f6-3d7f-47c9-88db-f28c0789941d"
+            },
+            {
+                "name":"custom_rule_name"
+            },
+            {
+                "name":"entityExtractionClassifierTriggered",
+                "value":"false"
+            },
+            {
+                "name":"termDropBuckets",
+                "value":"0"
+            },
+            {
+                "name":"relatedItemsBucket",
+                "value":"0"
+            },
+            {
+                "name":"nearByItemsBucket",
+                "value":"0"
+            },
+            {
+                "name":"mode",
+                "value":""
+            }
+        ],
+        "facet_list":[
+            {
+                "displayName":"Shipping & Pickup",
+                "name":"d_channel",
+                "id":0,
+                "type":"checkbox",
+                "expand":true,
+                "details":[
+                    {
+                        "display_name":"buy online & pick up",
+                        "value":"buy online & pick up",
+                        "descriptor":false,
+                        "url":"d_channel:buy online & pick up",
+                        "facetId":"5zl7w",
+                        "facetCanonical":"buy-online-pick-up"
+                    },
+                    {
+                        "display_name":"in stores",
+                        "value":"in stores",
+                        "descriptor":false,
+                        "url":"d_channel:in stores",
+                        "facetId":"5zkty",
+                        "facetCanonical":"in-stores"
+                    },
+                    {
+                        "display_name":"shipping",
+                        "value":"shipping",
+                        "descriptor":false,
+                        "url":"d_channel:shipping",
+                        "facetId":"5zktx",
+                        "facetCanonical":"shipping"
+                    },
+                    {
+                        "display_name":"include out of stock",
+                        "value":"include out of stock",
+                        "descriptor":false,
+                        "url":"d_channel:include out of stock",
+                        "facetId":"fwtfr",
+                        "facetCanonical":"include-out-of-stock"
+                    },
+                    {
+                        "display_name":"same day delivery",
+                        "value":"same day delivery",
+                        "descriptor":false,
+                        "url":"d_channel:same day delivery",
+                        "facetId":"cl92v",
+                        "facetCanonical":"same-day-delivery"
+                    }
+                ]
+            },
+            {
+                "displayName":"Brand",
+                "name":"d_brand_all",
+                "id":0,
+                "type":"checkbox",
+                "expand":true,
+                "details":[
+                    {
+                        "display_name":"A New Day",
+                        "value":"a new day",
+                        "descriptor":false,
+                        "url":"d_brand_all:a new day",
+                        "facetId":"xrye7",
+                        "facetCanonical":"a-new-day"
+                    },
+                    {
+                        "display_name":"Target Brands",
+                        "value":"target brands",
+                        "descriptor":false,
+                        "url":"d_brand_all:target brands",
+                        "facetId":"xmf9o",
+                        "facetCanonical":"target-brands"
+                    }
+                ]
+            },
+            {
+                "displayName":"Guest Rating",
+                "name":"d_rating",
+                "id":0,
+                "type":"rating",
+                "expand":true,
+                "details":[
+                    {
+                        "display_name":"1",
+                        "value":"0000 1",
+                        "descriptor":false,
+                        "url":"d_rating:0000 1",
+                        "facetId":"5zkq2",
+                        "facetCanonical":"1"
+                    },
+                    {
+                        "display_name":"2",
+                        "value":"0001 2",
+                        "descriptor":false,
+                        "url":"d_rating:0001 2",
+                        "facetId":"5zkq3",
+                        "facetCanonical":"2"
+                    },
+                    {
+                        "display_name":"3",
+                        "value":"0002 3",
+                        "descriptor":false,
+                        "url":"d_rating:0002 3",
+                        "facetId":"5zkq4",
+                        "facetCanonical":"3"
+                    },
+                    {
+                        "display_name":"4",
+                        "value":"0003 4",
+                        "descriptor":false,
+                        "url":"d_rating:0003 4",
+                        "facetId":"5zkq5",
+                        "facetCanonical":"4"
+                    },
+                    {
+                        "display_name":"5",
+                        "value":"0004 5",
+                        "descriptor":false,
+                        "url":"d_rating:0004 5",
+                        "facetId":"5zkq6",
+                        "facetCanonical":"5"
+                    }
+                ]
+            }
+        ],
+        "sort_options":{
+            "relevance":"relevance",
+            "Featured":"Featured",
+            "PriceLow":"price-low to high",
+            "PriceHigh":"price-high to low",
+            "RatingHigh":"average ratings",
+            "bestselling":"best seller",
+            "newest":"newest"
+        },
+        "experiments_viewed":{
+            
+        },
+        "sponsored":{
+            "load_beacon":""
+        }
+    }
+}

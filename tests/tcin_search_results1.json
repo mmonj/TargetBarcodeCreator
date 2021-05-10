@@ -1,0 +1,749 @@
+{
+    "product":{
+        "item":{
+            "tcin":"53971987",
+            "product_description":{
+                "title":"Large Flat Hoop Earrings - A New Day&#153;",
+                "downstream_description":"For a polished, unfussy look, check out the Large Flat Hoop Earrings from A New Day™. These oval hoop earrings feature a unique shape with a flat hoop that widens at the bottom, creating a triangular, dimensional silhouette that brings them a step beyond your average hoops. Showcase them with a partial updo and simple, bold rings to accent your minimalist style.",
+                "bullet_description":[
+                    "<B>Number of Pieces:</B> 1",
+                    "<B>Item 1: Length:</B> 1.61 Inches",
+                    "<B>Item 1: Width:</B> .83 Inches",
+                    "<B>Item 1: Material:</B> Steel, Nickel-Free Metal",
+                    "<B>Item 1: Weight:</B> .48 Grams",
+                    "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+                ],
+                "soft_bullets":{
+                    "title":"fit & style",
+                    "bullets":[
+                        "Flat, oval hoops are supremely wearable at a 1.6in drop",
+                        "Unique shape is constructed simply for a minimalist look",
+                        "Post and leverback design is secure and easy to put on"
+                    ]
+                }
+            },
+            "buy_url":"https://www.target.com/p/large-flat-hoop-earrings-a-new-day-153/-/A-53971987",
+            "variation":{
+                "themes":"COLOR",
+                "flexible_variation":[
+                    {
+                        "color":[
+                            "Gold",
+                            "Silver"
+                        ]
+                    }
+                ],
+                "flexible_themes":"[color:Gold],[color:Silver]",
+                "color":"Gold,Silver"
+            },
+            "variation_info":{
+                "themes":[
+                    {
+                        "name":"Color",
+                        "swatch_image":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770"
+                    }
+                ]
+            },
+            "enrichment":{
+                "images":[
+                    {
+                        "base_url":"https://target.scene7.com/is/image/Target/",
+                        "primary":"GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c",
+                        "swatch":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770",
+                        "alternate_urls":[
+                            "GUEST_389be0db-d6e3-4243-a0d0-9fffaa650c6b",
+                            "GUEST_7c6b00a2-27fa-4485-9557-f98a53c073bb"
+                        ],
+                        "content_labels":[
+                            {
+                                "image_url":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770"
+                            },
+                            {
+                                "image_url":"GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c",
+                                "displayed_in_image":{
+                                    "tcins":[
+                                        "53939831"
+                                    ]
+                                },
+                                "shoppable_in_image":[
+                                    
+                                ]
+                            },
+                            {
+                                "image_url":"GUEST_389be0db-d6e3-4243-a0d0-9fffaa650c6b",
+                                "displayed_in_image":{
+                                    "tcins":[
+                                        "53939831"
+                                    ]
+                                },
+                                "shoppable_in_image":[
+                                    
+                                ]
+                            },
+                            {
+                                "image_url":"GUEST_7c6b00a2-27fa-4485-9557-f98a53c073bb"
+                            }
+                        ]
+                    }
+                ],
+                "size_chart_fragment_url":"https://digitalcontent.target.com/itemcontent/sizecharts/htmlfragments/women-accessories/women-earrings-no-brand/regular.html"
+            },
+            "handling":{
+                
+            },
+            "recall_compliance":{
+                "is_product_recalled":false
+            },
+            "display_option":{
+                "is_size_chart":false
+            },
+            "package_dimensions":{
+                
+            },
+            "child_items":[
+                {
+                    "tcin":"53939828",
+                    "available_to_promise_store":{
+                        "products":[
+                            {
+                                "product_id":"53939828",
+                                "is_limited_quantity":false,
+                                "channel_id":"ESTORE",
+                                "available_to_promise_quantity":879,
+                                "availability_status":"IN_STOCK",
+                                "back_order_start_date":"1970-01-01T00:00:00.000Z",
+                                "back_order_end_date":"1970-01-01T00:00:00.000Z",
+                                "available_to_purchase_date_time":"1970-01-01T00:00:00.000Z",
+                                "multichannel_options":[
+                                    "HOLD",
+                                    "SHIPGUEST"
+                                ],
+                                "buy_unit_of_measure":"EACH",
+                                "locations":[
+                                    {
+                                        "location_id":"1344",
+                                        "location_type":"STORE",
+                                        "search_response_store_types":[
+                                            "PRIMARY"
+                                        ],
+                                        "distance":"0.00",
+                                        "store_name":"Queens Place",
+                                        "store_address":"8801 Queens Blvd Elmhurst NY 11373-4449",
+                                        "formatted_store_address":"8801 Queens Blvd, Elmhurst, NY 11373-4449",
+                                        "store_main_phone":"718-760-5656",
+                                        "location_available_to_promise_quantity":0,
+                                        "inventory_type":"STORES",
+                                        "availability_status":"NOT_SOLD_IN_STORE",
+                                        "kill_switch_expiration_time":"1970-01-01T00:00:00.000Z",
+                                        "suppressed_expiration_time":"1970-01-01T00:00:00.000Z",
+                                        "multichannel_options":[
+                                            "HOLD",
+                                            "SHIPGUEST"
+                                        ],
+                                        "is_grocery_capacity_expired":false
+                                    },
+                                    {
+                                        "location_id":"1401",
+                                        "location_type":"STORE",
+                                        "search_response_store_types":[
+                                            "BACKUP"
+                                        ],
+                                        "distance":"5.73",
+                                        "store_name":"Gateway",
+                                        "store_address":"519 Gateway Dr Brooklyn NY 11239-2801",
+                                        "formatted_store_address":"519 Gateway Dr, Brooklyn, NY 11239-2801",
+                                        "store_main_phone":"718-235-6032",
+                                        "location_available_to_promise_quantity":1,
+                                        "inventory_type":"STORES",
+                                        "availability_status":"IN_STOCK",
+                                        "kill_switch_expiration_time":"1970-01-01T00:00:00.000Z",
+                                        "suppressed_expiration_time":"1970-01-01T00:00:00.000Z",
+                                        "multichannel_options":[
+                                            "HOLD"
+                                        ],
+                                        "is_grocery_capacity_expired":false
+                                    }
+                                ],
+                                "is_retail_ticketed":true,
+                                "is_infinite_inventory":false,
+                                "is_add_to_cart_suppressed":false,
+                                "loyalty_availability_status":"IN_STOCK",
+                                "loyalty_purchase_start_date_time":"1970-01-01T00:00:00.000Z",
+                                "is_loyalty_purchase_enabled":false,
+                                "package_dimensions_weight":0.03
+                            }
+                        ]
+                    },
+                    "available_to_promise_network":{
+                        "product_id":"53939828",
+                        "id_type":"TCIN",
+                        "available_to_promise_quantity":652,
+                        "availability":"AVAILABLE",
+                        "online_available_to_promise_quantity":0,
+                        "stores_available_to_promise_quantity":652,
+                        "availability_status":"IN_STOCK",
+                        "multichannel_options":[
+                            "HOLD",
+                            "SHIPGUEST"
+                        ],
+                        "is_infinite_inventory":false,
+                        "loyalty_availability_status":"IN_STOCK",
+                        "loyalty_purchase_start_date_time":"1970-01-01T00:00:00.000Z",
+                        "is_loyalty_purchase_enabled":false,
+                        "is_out_of_stock_in_all_store_locations":false,
+                        "is_out_of_stock_in_all_online_locations":true
+                    },
+                    "circle_offers":{
+                        "universal_offer_exists":false,
+                        "non_universal_offer_exists":true
+                    },
+                    "dpci":"215-03-1375",
+                    "product_description":{
+                        "title":"Large Flat Hoop Earrings - A New Day&#8482; Gold",
+                        "downstream_description":"For a polished, unfussy look, check out the Large Flat Hoop Earrings from A New Day™. These oval hoop earrings feature a unique shape with a flat hoop that widens at the bottom, creating a triangular, dimensional silhouette that brings them a step beyond your average hoops. Showcase them with a partial updo and simple, bold rings to accent your minimalist style.",
+                        "bullet_description":[
+                            "<B>Number of Pieces:</B> 1",
+                            "<B>Item 1: Length:</B> 1.61 Inches",
+                            "<B>Item 1: Width:</B> .83 Inches",
+                            "<B>Item 1: Material:</B> Steel, Nickel-Free Metal",
+                            "<B>Item 1: Weight:</B> .48 Grams",
+                            "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+                        ],
+                        "soft_bullets":{
+                            "title":"fit & style",
+                            "bullets":[
+                                "Flat, oval hoops are supremely wearable at a 1.6in drop",
+                                "Unique shape is constructed simply for a minimalist look",
+                                "Post and leverback design is secure and easy to put on"
+                            ]
+                        }
+                    },
+                    "enrichment":{
+                        "buy_url":"https://www.target.com/p/large-flat-hoop-earrings-a-new-day-8482-gold/-/A-53939828",
+                        "images":[
+                            {
+                                "base_url":"https://target.scene7.com/is/image/Target/",
+                                "primary":"GUEST_eeddc574-200b-4c94-9501-5482b6689711",
+                                "swatch":"GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c",
+                                "alternate_urls":[
+                                    "GUEST_9fe0d59e-4fa2-45de-a921-357b1a488085",
+                                    "GUEST_cb0613eb-8a68-4fe3-9c21-9ea96ce73dd9"
+                                ],
+                                "content_labels":[
+                                    {
+                                        "image_url":"GUEST_eeddc574-200b-4c94-9501-5482b6689711",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939828"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_9fe0d59e-4fa2-45de-a921-357b1a488085",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939828"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c"
+                                    },
+                                    {
+                                        "image_url":"GUEST_cb0613eb-8a68-4fe3-9c21-9ea96ce73dd9"
+                                    }
+                                ]
+                            }
+                        ],
+                        "size_chart_fragment_url":"https://digitalcontent.target.com/itemcontent/sizecharts/htmlfragments/women-accessories/women-earrings-no-brand/regular.html",
+                        "return_policies":[
+                            {
+                                "id":2,
+                                "permanent_policy_id":2,
+                                "type":"permanent",
+                                "user_type":"best_guest",
+                                "start_date":"2020-11-01",
+                                "start_time":"00:00:00",
+                                "end_date":"2099-12-30",
+                                "end_time":"00:00:00",
+                                "day_count":365
+                            },
+                            {
+                                "id":2,
+                                "permanent_policy_id":2,
+                                "type":"permanent",
+                                "user_type":"regular_guest",
+                                "start_date":"2020-11-01",
+                                "start_time":"00:00:00",
+                                "end_date":"2099-12-30",
+                                "end_time":"00:00:00",
+                                "day_count":365
+                            }
+                        ]
+                    },
+                    "attributes":{
+                        "gift_wrapable":"Y",
+                        "has_prop65":"N",
+                        "is_hazmat":"N",
+                        "manufacturing_brand":"A New Day",
+                        "max_order_qty":10,
+                        "merch_class":"JEWELRY",
+                        "merch_classid":215,
+                        "merch_subclass":3,
+                        "return_method":"This item can be returned to any Target store or Target.com."
+                    },
+                    "fulfillment":{
+                        "is_po_box_prohibited":false,
+                        "box_percent_filled_by_volume":0.07,
+                        "box_percent_filled_by_weight":0.07,
+                        "box_percent_filled_display":0.07
+                    },
+                    "product_brand":{
+                        "brand":"A New Day",
+                        "manufacturer_brand":"A New Day",
+                        "facet_id":"xrye7"
+                    },
+                    "product_vendors":[
+                        {
+                            "id":"1295131",
+                            "manufacturer_style":"EA27524GLD",
+                            "vendor_name":"SEQUIN, LLC"
+                        },
+                        {
+                            "id":"1138845",
+                            "manufacturer_style":"EA27524GLD",
+                            "vendor_name":"SEQUIN LLC"
+                        }
+                    ],
+                    "relationship_type_code":"Variation Child",
+                    "selling_channel":"Sold Online + in Stores",
+                    "subscription_eligible":false,
+                    "upc":"492150313756",
+                    "variation":{
+                        "flexible_themes":{
+                            "color":"Gold"
+                        },
+                        "color":"Gold",
+                        "flexible_variation":[
+                            {
+                                "color":[
+                                    "Gold"
+                                ]
+                            }
+                        ]
+                    },
+                    "package_dimensions":{
+                        "weight":"0.03",
+                        "weight_unit_of_measure":"POUND",
+                        "width":"2.5",
+                        "depth":"0.55",
+                        "height":"3.0",
+                        "dimension_unit_of_measure":"INCH"
+                    },
+                    "is_cart_add_on":true,
+                    "eligibility_rules":{
+                        "add_on":{
+                            "is_active":true
+                        },
+                        "hold":{
+                            "is_active":true
+                        },
+                        "ship_to_guest":{
+                            "is_active":true
+                        }
+                    },
+                    "is_proposition_65":false,
+                    "return_method":"Mail in or Store",
+                    "variation_info":{
+                        "themes":[
+                            {
+                                "name":"Color",
+                                "value":"Gold",
+                                "swatch_image":"GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c"
+                            }
+                        ]
+                    },
+                    "return_policies":{
+                        "user":"Regular Guest",
+                        "policyDays":"365",
+                        "guestMessage":"This item must be returned within 365 days of the in-store purchase, ship date, or online order pickup. See return policy for details."
+                    },
+                    "shop_the_look":[
+                        
+                    ],
+                    "packaging":{
+                        "is_retail_ticketed":true
+                    },
+                    "environmental_segmentation":{
+                        "is_hazardous_material":false,
+                        "has_lead_disclosure":false
+                    }
+                },
+                {
+                    "tcin":"53939831",
+                    "available_to_promise_store":{
+                        "products":[
+                            {
+                                "product_id":"53939831",
+                                "is_limited_quantity":false,
+                                "channel_id":"ESTORE",
+                                "available_to_promise_quantity":291,
+                                "availability_status":"IN_STOCK",
+                                "back_order_start_date":"1970-01-01T00:00:00.000Z",
+                                "back_order_end_date":"1970-01-01T00:00:00.000Z",
+                                "available_to_purchase_date_time":"1970-01-01T00:00:00.000Z",
+                                "multichannel_options":[
+                                    "HOLD",
+                                    "SHIPGUEST"
+                                ],
+                                "buy_unit_of_measure":"EACH",
+                                "locations":[
+                                    {
+                                        "location_id":"1344",
+                                        "location_type":"STORE",
+                                        "search_response_store_types":[
+                                            "PRIMARY"
+                                        ],
+                                        "distance":"0.00",
+                                        "store_name":"Queens Place",
+                                        "store_address":"8801 Queens Blvd Elmhurst NY 11373-4449",
+                                        "formatted_store_address":"8801 Queens Blvd, Elmhurst, NY 11373-4449",
+                                        "store_main_phone":"718-760-5656",
+                                        "location_available_to_promise_quantity":0,
+                                        "inventory_type":"STORES",
+                                        "availability_status":"DISCONTINUED",
+                                        "kill_switch_expiration_time":"2019-04-11T19:03:00.000Z",
+                                        "suppressed_expiration_time":"1970-01-01T00:00:00.000Z",
+                                        "multichannel_options":[
+                                            "HOLD",
+                                            "SHIPGUEST"
+                                        ],
+                                        "is_grocery_capacity_expired":false
+                                    },
+                                    {
+                                        "location_id":"1849",
+                                        "location_type":"STORE",
+                                        "search_response_store_types":[
+                                            "BACKUP"
+                                        ],
+                                        "distance":"6.42",
+                                        "store_name":"Atlantic Terminal",
+                                        "store_address":"139 Flatbush Ave Brooklyn NY 11217-1403",
+                                        "formatted_store_address":"139 Flatbush Ave, Brooklyn, NY 11217-1403",
+                                        "store_main_phone":"718-290-1109",
+                                        "location_available_to_promise_quantity":1,
+                                        "inventory_type":"STORES",
+                                        "availability_status":"IN_STOCK",
+                                        "kill_switch_expiration_time":"1970-01-01T00:00:00.000Z",
+                                        "suppressed_expiration_time":"1970-01-01T00:00:00.000Z",
+                                        "multichannel_options":[
+                                            "HOLD"
+                                        ],
+                                        "is_grocery_capacity_expired":false
+                                    }
+                                ],
+                                "is_retail_ticketed":true,
+                                "is_infinite_inventory":false,
+                                "is_add_to_cart_suppressed":false,
+                                "loyalty_availability_status":"IN_STOCK",
+                                "loyalty_purchase_start_date_time":"1970-01-01T00:00:00.000Z",
+                                "is_loyalty_purchase_enabled":false,
+                                "package_dimensions_weight":0.03
+                            }
+                        ]
+                    },
+                    "available_to_promise_network":{
+                        "product_id":"53939831",
+                        "id_type":"TCIN",
+                        "available_to_promise_quantity":199,
+                        "availability":"AVAILABLE",
+                        "online_available_to_promise_quantity":0,
+                        "stores_available_to_promise_quantity":199,
+                        "availability_status":"IN_STOCK",
+                        "multichannel_options":[
+                            "HOLD",
+                            "SHIPGUEST"
+                        ],
+                        "is_infinite_inventory":false,
+                        "loyalty_availability_status":"IN_STOCK",
+                        "loyalty_purchase_start_date_time":"1970-01-01T00:00:00.000Z",
+                        "is_loyalty_purchase_enabled":false,
+                        "is_out_of_stock_in_all_store_locations":false,
+                        "is_out_of_stock_in_all_online_locations":true
+                    },
+                    "circle_offers":{
+                        "universal_offer_exists":false,
+                        "non_universal_offer_exists":true
+                    },
+                    "dpci":"215-03-1376",
+                    "product_description":{
+                        "title":"Large Flat Hoop Earrings - A New Day&#8482; Silver",
+                        "downstream_description":"For a polished, unfussy look, check out the Large Flat Hoop Earrings from A New Day™. These oval hoop earrings feature a unique shape with a flat hoop that widens at the bottom, creating a triangular, dimensional silhouette that brings them a step beyond your average hoops. Showcase them with a partial updo and simple, bold rings to accent your minimalist style.",
+                        "bullet_description":[
+                            "<B>Number of Pieces:</B> 1",
+                            "<B>Item 1: Length:</B> 1.61 Inches",
+                            "<B>Item 1: Width:</B> .83 Inches",
+                            "<B>Item 1: Material:</B> Steel, Nickel-Free Metal",
+                            "<B>Item 1: Weight:</B> .48 Pounds",
+                            "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+                        ],
+                        "soft_bullets":{
+                            "title":"fit & style",
+                            "bullets":[
+                                "Flat, oval hoops are supremely wearable at a 1.6in drop",
+                                "Unique shape is constructed simply for a minimalist look",
+                                "Post and leverback design is secure and easy to put on"
+                            ]
+                        }
+                    },
+                    "enrichment":{
+                        "buy_url":"https://www.target.com/p/large-flat-hoop-earrings-a-new-day-8482-silver/-/A-53939831",
+                        "images":[
+                            {
+                                "base_url":"https://target.scene7.com/is/image/Target/",
+                                "primary":"GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c",
+                                "swatch":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770",
+                                "alternate_urls":[
+                                    "GUEST_389be0db-d6e3-4243-a0d0-9fffaa650c6b",
+                                    "GUEST_7c6b00a2-27fa-4485-9557-f98a53c073bb"
+                                ],
+                                "content_labels":[
+                                    {
+                                        "image_url":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770"
+                                    },
+                                    {
+                                        "image_url":"GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939831"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_389be0db-d6e3-4243-a0d0-9fffaa650c6b",
+                                        "displayed_in_image":{
+                                            "tcins":[
+                                                "53939831"
+                                            ]
+                                        },
+                                        "shoppable_in_image":[
+                                            
+                                        ]
+                                    },
+                                    {
+                                        "image_url":"GUEST_7c6b00a2-27fa-4485-9557-f98a53c073bb"
+                                    }
+                                ]
+                            }
+                        ],
+                        "size_chart_fragment_url":"https://digitalcontent.target.com/itemcontent/sizecharts/htmlfragments/women-accessories/women-earrings-no-brand/regular.html",
+                        "return_policies":[
+                            {
+                                "id":2,
+                                "permanent_policy_id":2,
+                                "type":"permanent",
+                                "user_type":"best_guest",
+                                "start_date":"2020-11-01",
+                                "start_time":"00:00:00",
+                                "end_date":"2099-12-30",
+                                "end_time":"00:00:00",
+                                "day_count":365
+                            },
+                            {
+                                "id":2,
+                                "permanent_policy_id":2,
+                                "type":"permanent",
+                                "user_type":"regular_guest",
+                                "start_date":"2020-11-01",
+                                "start_time":"00:00:00",
+                                "end_date":"2099-12-30",
+                                "end_time":"00:00:00",
+                                "day_count":365
+                            }
+                        ]
+                    },
+                    "attributes":{
+                        "gift_wrapable":"Y",
+                        "has_prop65":"N",
+                        "is_hazmat":"N",
+                        "manufacturing_brand":"A New Day",
+                        "max_order_qty":10,
+                        "merch_class":"JEWELRY",
+                        "merch_classid":215,
+                        "merch_subclass":3,
+                        "return_method":"This item can be returned to any Target store or Target.com."
+                    },
+                    "fulfillment":{
+                        "is_po_box_prohibited":false,
+                        "box_percent_filled_by_volume":0.07,
+                        "box_percent_filled_by_weight":0.07,
+                        "box_percent_filled_display":0.07
+                    },
+                    "product_brand":{
+                        "brand":"A New Day",
+                        "manufacturer_brand":"A New Day",
+                        "facet_id":"xrye7"
+                    },
+                    "product_vendors":[
+                        {
+                            "id":"1295131",
+                            "manufacturer_style":"EA27524SIL",
+                            "vendor_name":"SEQUIN, LLC"
+                        },
+                        {
+                            "id":"1138845",
+                            "manufacturer_style":"EA27524SIL",
+                            "vendor_name":"SEQUIN LLC"
+                        }
+                    ],
+                    "relationship_type_code":"Variation Child",
+                    "selling_channel":"Sold Online + in Stores",
+                    "subscription_eligible":false,
+                    "upc":"492150313763",
+                    "variation":{
+                        "flexible_themes":{
+                            "color":"Silver"
+                        },
+                        "color":"Silver",
+                        "flexible_variation":[
+                            {
+                                "color":[
+                                    "Silver"
+                                ]
+                            }
+                        ]
+                    },
+                    "package_dimensions":{
+                        "weight":"0.03",
+                        "weight_unit_of_measure":"POUND",
+                        "width":"2.5",
+                        "depth":"0.55",
+                        "height":"3.0",
+                        "dimension_unit_of_measure":"INCH"
+                    },
+                    "is_cart_add_on":true,
+                    "eligibility_rules":{
+                        "add_on":{
+                            "is_active":true
+                        },
+                        "hold":{
+                            "is_active":true
+                        },
+                        "ship_to_guest":{
+                            "is_active":true
+                        }
+                    },
+                    "is_proposition_65":false,
+                    "return_method":"Mail in or Store",
+                    "variation_info":{
+                        "themes":[
+                            {
+                                "name":"Color",
+                                "value":"Silver",
+                                "swatch_image":"GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770"
+                            }
+                        ]
+                    },
+                    "return_policies":{
+                        "user":"Regular Guest",
+                        "policyDays":"365",
+                        "guestMessage":"This item must be returned within 365 days of the in-store purchase, ship date, or online order pickup. See return policy for details."
+                    },
+                    "shop_the_look":[
+                        
+                    ],
+                    "packaging":{
+                        "is_retail_ticketed":true
+                    },
+                    "environmental_segmentation":{
+                        "is_hazardous_material":false,
+                        "has_lead_disclosure":false
+                    }
+                }
+            ],
+            "manufacturer":{
+                
+            },
+            "product_classification":{
+                "product_type":"540",
+                "product_type_name":"APPAREL",
+                "item_type_name":"jewelry",
+                "item_type":{
+                    "type":62465936,
+                    "name":"Earrings"
+                }
+            },
+            "product_brand":{
+                "brand":"A New Day",
+                "manufacturer_brand":"A New Day",
+                "facet_id":"xrye7"
+            },
+            "item_state":"READY_FOR_LAUNCH",
+            "specifications":[
+                
+            ],
+            "attributes":{
+                "has_prop65":"N",
+                "manufacturing_brand":"A New Day",
+                "merch_class":"JEWELRY",
+                "merch_classid":215,
+                "merch_subclass":3
+            },
+            "relationship_type_code":"Variation Parent",
+            "subscription_eligible":false,
+            "ribbons":[
+                
+            ],
+            "tags":[
+                
+            ],
+            "estore_item_status_code":"A",
+            "wellness_merchandise_attributes":[
+                {
+                    "parent_id":"111962",
+                    "parent_name":"Item 1: Material",
+                    "value_id":"279977",
+                    "value_name":"Nickel Free",
+                    "badge_url":"https://target.scene7.com/is/image/Target/badge_ee5aefee-300c-ad0b-555e-4dc498d08f17",
+                    "wellness_description":"Does not contain Nickel"
+                }
+            ],
+            "return_policies":{
+                "user":"Regular Guest",
+                "policyDays":"365",
+                "guestMessage":"This item must be returned within 365 days of the in-store purchase, ship date, or online order pickup. See return policy for details."
+            },
+            "shop_the_look":[
+                
+            ],
+            "swatches":{
+                "color":[
+                    {
+                        "color":"Gold",
+                        "swatch_url":"https://target.scene7.com/is/image/Target/GUEST_65e1b30d-35f2-4d6d-ae6a-49b80e37c66c",
+                        "partNumber":"53939828",
+                        "img_url":"https://target.scene7.com/is/image/Target/GUEST_eeddc574-200b-4c94-9501-5482b6689711"
+                    },
+                    {
+                        "color":"Silver",
+                        "swatch_url":"https://target.scene7.com/is/image/Target/GUEST_ea7b66b0-238a-4747-a73f-a74b4758e770",
+                        "partNumber":"53939831",
+                        "img_url":"https://target.scene7.com/is/image/Target/GUEST_9105d888-ff1a-4f2a-a9af-a7a1b36c3a4c"
+                    }
+                ]
+            },
+            "merchandising":{
+                "fashion_intent":"Fashion"
+            }
+        }
+    }
+}
