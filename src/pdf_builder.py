@@ -1,5 +1,6 @@
+import html
 import os
-import re
+import unidecode
 from reportlab.pdfgen import canvas
 from reportlab.lib.units import inch, cm
 
@@ -14,8 +15,10 @@ def build(items):
 	x, y = 10, 700
 
 	for item in items:
+		item['name'] = _make_printable(item['name'])
+
 		pdf_canvas.setFont("Helvetica", 7)
-		pdf_canvas.drawString(x + 1, y + 98, f'Name: {item["name"]}')
+		pdf_canvas.drawString(x + 1, y + 98, f'{item["name"][:57]}')
 		pdf_canvas.drawString(x + 1, y + 90, f'{item["dpci"]}')
 		pdf_canvas.drawImage(item['image_path'], x, y, 3*cm, 3*cm)
 		x += 80
@@ -43,3 +46,9 @@ def _get_valid_path(file_path):
         n += 1
 
     return file_path
+
+
+# unescape html entities. make other special characters printable, ie. convert diacritics to corresponding ASCII chars
+def _make_printable(name):
+	name = html.unescape(name)
+	return unidecode.unidecode(name)
