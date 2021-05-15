@@ -1,7 +1,6 @@
 #!python3
 
 import os
-import subprocess
 
 import data_parser
 import site_parser
@@ -21,8 +20,6 @@ def main():
 			item.update(**pulled_data)
 			pulled_items.append(item)
 
-	# _make_item_names_printable(pulled_items)
-
 	print('Getting barcodes and images')
 	for item in pulled_items:
 		asset_generator.generate_barcode(item)
@@ -31,10 +28,14 @@ def main():
 	print('Building pdf')
 	pdf_builder.build(pulled_items)
 
+	# delete files downloaded from remote site
+	_purge_dir(pulled_items)
 
-# def _make_item_names_printable(items):
-# 	pass
 
+def _purge_dir(items):
+	for item in items:
+		os.unlink(item['barcode_path'])
+		os.unlink(item['image_path'])
 
 
 if __name__ == '__main__':
