@@ -1,4 +1,3 @@
-import json
 import re
 
 ITEM_DUMP = '_item_dump.txt'
