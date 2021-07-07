@@ -2,7 +2,7 @@ import html
 import os
 import unidecode
 from reportlab.pdfgen import canvas
-from reportlab.lib.units import inch, cm
+from reportlab.lib.units import cm
 
 results_dir = '../Results'
 pdf_filename = 'Barcodes.pdf'

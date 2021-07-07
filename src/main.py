@@ -25,9 +25,9 @@ def main():
 		asset_generator.generate_barcode(item)
 		asset_generator.download_image(item)
 
-	print('Building pdf')
-	pdf_builder.build(pulled_items)
-
+    print('Building pdf')
+    pdf_builder.build(pulled_items)
+    
 	# delete files downloaded from remote site
 	_purge_dir(pulled_items)
 
